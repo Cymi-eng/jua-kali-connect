@@ -82,7 +82,7 @@ jua-kali-connect/
 Installation & Setup
 
 bash
-git clone https://github.com/Kwanusu/jua-kali-connect.git
+git clone https://github.com/cymi-eng/jua-kali-connect.git
 
 cd jua-kali-connect
 
@@ -100,7 +100,7 @@ Backend Setup (Django)
 **Bash**
 
 # Clone repository
-git clone [https://github.com/Kwanusu/jua-kali-connect.git](https://github.com/Kwanusu/jua-kali-connect.git)
+git clone [https://github.com/cymi-eng/jua-kali-connect.git](https://github.com/cymi-eng/jua-kali-connect.git)
 
 cd jua-kali-connect/backend
 
@@ -204,10 +204,10 @@ This project is licensed under the MIT License.
 
 Author
 
-**Your Name**
+**Ian Cymi**
 
-* GitHub: https://github.com/your-username
-* Email: your-email@example.com
+* GitHub: https://github.com/cymi-eng
+* Email: your-email eaiancymi@gmail.com
 
 Vision
 
