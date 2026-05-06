@@ -134,6 +134,7 @@ npm install
 npm start
 
 
+
 API Endpoints
 
 | **Methods** | **Endpoints** | **Description** |
