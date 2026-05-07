@@ -57,7 +57,7 @@ Tech Stack
 
 Project Structure
 
-text
+```
 jua-kali-connect/
 │
 ├── frontend/                # React application
@@ -82,11 +82,11 @@ jua-kali-connect/
 
 Installation & Setup
 
-bash
+```
 git clone https://github.com/cymi-eng/jua-kali-connect.git
 
 cd jua-kali-connect
-
+```
 Open index.html in any modern browser and view your site
 
 Prerequisites
