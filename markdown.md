@@ -25,7 +25,7 @@ _italic text_
 >He said that he will be coming next week
 >>Why wouldnt He just come this week
 
-#### List of contributios
+#### List of contributions
 
 1. Ian
 2. lallety
